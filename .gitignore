@@ -1,0 +1,5 @@
+# CodeLite-generated files for the beginner C++ workspaces.
+/01_cpp/workspaces/**/.codelite/
+/01_cpp/workspaces/**/build-*/
+/01_cpp/workspaces/**/Makefile
+/01_cpp/workspaces/**/*.mk
