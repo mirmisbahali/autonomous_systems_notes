@@ -1,0 +1,4 @@
+interface:
+  display_name: "Update Notes"
+  short_description: "Organise notes for recall and durable learning"
+  default_prompt: "Use $update-notes to organise knowledge from my newly committed repository changes."
