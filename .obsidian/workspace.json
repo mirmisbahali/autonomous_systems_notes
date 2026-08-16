@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "69ebf70cb323d85b",
+    "type": "split",
+    "children": [
+      {
+        "id": "960060d464ff0604",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b25050055705c08e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_dashboard/Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Roadmap"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3c9403113bddd1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "52fa0efbd8ea6d81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21d3137b4075ff5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "412c3fd3a1910dfa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ae2b2ff5eb0db26a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bf927f7fbb3fae2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1288500d094439a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "968044ff8bf79672",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "104f2a5e2fcd5176",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "fa3a8a69a9d210ab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d32b6deb03194552",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "028909887711fa21",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b25050055705c08e",
+  "lastOpenFiles": [
+    "00_dashboard/skills_matrix.md",
+    "00_dashboard/discovery_interview.md",
+    "00_dashboard/Roadmap.md",
+    "05_autonomy_stack/Architecture.md",
+    "03_vehicle_networks/SPI.md",
+    "03_vehicle_networks/I2C.md",
+    "03_vehicle_networks/Ethernet.md",
+    "03_vehicle_networks/LIN.md",
+    "03_vehicle_networks/ISO-TP.md",
+    "03_vehicle_networks/CAN-FD.md",
+    "03_vehicle_networks/CAN.md",
+    "07_safety_systems/Degraded Operation.md",
+    "10_capstones",
+    "07_safety_systems/Failure Modes.md",
+    "07_safety_systems/ODD.md",
+    "06_localisation/Sensor Fusion.md",
+    "07_safety_systems",
+    "06_localisation/Odometry.md",
+    "06_localisation/IMU.md",
+    "06_localisation/RTK.md",
+    "06_localisation/GNSS.md",
+    "05_autonomy_stack/Control.md",
+    "06_localisation",
+    "05_autonomy_stack/Planning.md",
+    "05_autonomy_stack/Prediction.md",
+    "05_autonomy_stack/Localistaion.md",
+    "05_autonomy_stack/Perception.md",
+    "05_autonomy_stack",
+    "04_realtime_concurrency",
+    "03_vehicle_networks",
+    "02_linux_tooling",
+    "01_cpp",
+    "CLAUDE.md",
+    "CLAUDE.md.tmp.18399.7ddb39b2b2cc",
+    "CLAUDE.md.md",
+    "00_dashboard"
+  ]
+}
