@@ -14,6 +14,18 @@
 - [[01_cpp/C++ Program Structure|C++ Program Structure]] — mastery 0, confidence not rated
 - [[01_cpp/Modern C++ and the C++ Standard|Modern C++ and the C++ Standard]] — mastery 0, confidence not rated
 
+### linux-tooling
+
+- [[02_linux_tooling/Bash Arrays|Bash Arrays]] — mastery 0, confidence not rated
+- [[02_linux_tooling/Bash Case Statements|Bash Case Statements]] — mastery 0, confidence not rated
+- [[02_linux_tooling/Bash Conditional Tests|Bash Conditional Tests]] — mastery 0, confidence not rated
+- [[02_linux_tooling/Bash Functions|Bash Functions]] — mastery 0, confidence not rated
+- [[02_linux_tooling/Bash Loops|Bash Loops]] — mastery 0, confidence not rated
+- [[02_linux_tooling/Bash Redirection and Pipelines|Bash Redirection and Pipelines]] — mastery 0, confidence not rated
+- [[02_linux_tooling/Bash Script Input and Arguments|Bash Script Input and Arguments]] — mastery 0, confidence not rated
+- [[02_linux_tooling/Bash Shell Commands and Exit Status|Bash Shell Commands and Exit Status]] — mastery 0, confidence not rated
+- [[02_linux_tooling/Bash Variables and Quoting|Bash Variables and Quoting]] — mastery 0, confidence not rated
+
 ## Recall priorities
 
 ### Never reviewed
@@ -24,6 +36,15 @@
 - [[01_cpp/C++ Preprocessor Directives|C++ Preprocessor Directives]]
 - [[01_cpp/C++ Program Structure|C++ Program Structure]]
 - [[01_cpp/Modern C++ and the C++ Standard|Modern C++ and the C++ Standard]]
+- [[02_linux_tooling/Bash Arrays|Bash Arrays]]
+- [[02_linux_tooling/Bash Case Statements|Bash Case Statements]]
+- [[02_linux_tooling/Bash Conditional Tests|Bash Conditional Tests]]
+- [[02_linux_tooling/Bash Functions|Bash Functions]]
+- [[02_linux_tooling/Bash Loops|Bash Loops]]
+- [[02_linux_tooling/Bash Redirection and Pipelines|Bash Redirection and Pipelines]]
+- [[02_linux_tooling/Bash Script Input and Arguments|Bash Script Input and Arguments]]
+- [[02_linux_tooling/Bash Shell Commands and Exit Status|Bash Shell Commands and Exit Status]]
+- [[02_linux_tooling/Bash Variables and Quoting|Bash Variables and Quoting]]
 
 ### Low or unrated confidence
 
@@ -33,6 +54,15 @@
 - [[01_cpp/C++ Preprocessor Directives|C++ Preprocessor Directives]] — confidence not rated
 - [[01_cpp/C++ Program Structure|C++ Program Structure]] — confidence not rated
 - [[01_cpp/Modern C++ and the C++ Standard|Modern C++ and the C++ Standard]] — confidence not rated
+- [[02_linux_tooling/Bash Arrays|Bash Arrays]] — confidence not rated
+- [[02_linux_tooling/Bash Case Statements|Bash Case Statements]] — confidence not rated
+- [[02_linux_tooling/Bash Conditional Tests|Bash Conditional Tests]] — confidence not rated
+- [[02_linux_tooling/Bash Functions|Bash Functions]] — confidence not rated
+- [[02_linux_tooling/Bash Loops|Bash Loops]] — confidence not rated
+- [[02_linux_tooling/Bash Redirection and Pipelines|Bash Redirection and Pipelines]] — confidence not rated
+- [[02_linux_tooling/Bash Script Input and Arguments|Bash Script Input and Arguments]] — confidence not rated
+- [[02_linux_tooling/Bash Shell Commands and Exit Status|Bash Shell Commands and Exit Status]] — confidence not rated
+- [[02_linux_tooling/Bash Variables and Quoting|Bash Variables and Quoting]] — confidence not rated
 
 ## Weak connections
 
@@ -50,4 +80,4 @@
 
 See [[00_dashboard/Learning Log|Learning Log]].
 
-_Generated 2026-08-17 01:48 AEST._
+_Generated 2026-08-22 22:15 AEST._

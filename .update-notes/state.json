@@ -1,10 +1,10 @@
 {
-  "checkpoint": "fb82cd88bdb94ac3cb5220499fdb51bb631ac2e0",
-  "last_run": "2026-08-16T15:48:32+00:00",
+  "checkpoint": "4eab99b448d3d4086c0682c6b5a0eda49a987c5a",
+  "last_run": "2026-08-22T12:15:30+00:00",
   "processed": {
     ".gitignore": "795d39239eb3a91edcfcb684b75e10405f68c4efb7b63cb09f6674df575c2389",
-    "00_dashboard/Knowledge Dashboard.md": "76995eda35230b6e4956c37070a5f5dae9c7f57e104567a5362b500afc404896",
-    "00_dashboard/Learning Log.md": "16963672bb096413f16ee6152097ca6a0a6f29badef9f23a24d4a044a67808b5",
+    "00_dashboard/Knowledge Dashboard.md": "4ec2a947c551b315c53932e3a23a82f0e03c26ca753e68c267552ea375df9ab4",
+    "00_dashboard/Learning Log.md": "060be3618659fac83c017ac16f03db5c20ffe941ab7da7f7568cc0af1cc31a86",
     "01_cpp/01_01_Introduction.md": "10e0a0ab2fbd7a56ca43b3386fd7b0a0336efc33274ce6ef63602fb672fa3ac4",
     "01_cpp/C++ Build Process.md": "92cd95439b88e55c5cf287cf0af57d011d54b78317af4374a466c0288b570aea",
     "01_cpp/C++ Development Environments.md": "a57cc7d1494d873f6c935b77aaae20950f769a6999572ff91a47ac858ea83324",
@@ -22,6 +22,16 @@
     "01_cpp/workspaces/workspace2/project2/main.cpp": "b4f5295d0dddeba5e10bf4ff23d2cf3798ba6e209b81314cdce99d2a97f317c6",
     "01_cpp/workspaces/workspace2/project2/project2.project": "6c8dc306941080f2f7f7ed94f4c376a569d3abffa06f307e08297867348b3d55",
     "01_cpp/workspaces/workspace2/workspace2.workspace": "c62f288dd419c7dbc65048dbe4861842655ee9cf2bebde2d9e2c0da7d346f023",
+    "02_linux_tooling/Bash Arrays.md": "93239762ce67d14cd107b75d9e4ad2a34179506c98abc4baf1b855b846d33d5d",
+    "02_linux_tooling/Bash Case Statements.md": "4b69e68b555773368737427e26bd406c6373c0856765847d57373c1b7a028d11",
+    "02_linux_tooling/Bash Conditional Tests.md": "93eadd2bc92b43e723add2ad5d38d52337ec389893a985e9d501b7a70ad7f549",
+    "02_linux_tooling/Bash Functions.md": "a4ff5ff1ab930452fcffa3af8cadbd97cb512febe4d15fb523afce6f4f33db95",
+    "02_linux_tooling/Bash Loops.md": "8e3e03493a9aa2f22da5bab4bcb219616268cdbcad697b3f4a58475697552fab",
+    "02_linux_tooling/Bash Redirection and Pipelines.md": "33901eeab2df12945d0aca02d7026728691688ec0e9a15e36037e1620e16095b",
+    "02_linux_tooling/Bash Script Input and Arguments.md": "26d5a86e528b071efe12fef121cc9deb883a52ddcf3321f2fb7dcb330d644b67",
+    "02_linux_tooling/Bash Scripting.md": "3fb7c35f7e179105857f2d39d02089b1642ea9a97c54e28cc7abfebe06d3037b",
+    "02_linux_tooling/Bash Shell Commands and Exit Status.md": "99742fd59edc05f0c57dbd952b7b8456e82b5d2ac3b02386f14e37a29c601793",
+    "02_linux_tooling/Bash Variables and Quoting.md": "c2da576cd1c9db9de24cdbe47a9cf0df21b439a832246053ecece5c5cb9eedfc",
     "Pasted image 20260816233346.png": "8deb831303fce31b38091b40fb10d99b032878898eb85a2c39accc17175a8177"
   },
   "version": 1
