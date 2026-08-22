@@ -1,187 +1,76 @@
-# Modern C++ and the C++ Standard
+---
+type: moc
+domain: cpp
+tags:
+  - note/moc
+aliases:
+  - C++ Introduction
+prerequisites: []
+related:
+  - "[[Modern C++ and the C++ Standard]]"
+  - "[[C++ Build Process]]"
+  - "[[C++ Development Environments]]"
+  - "[[C++ Program Structure]]"
+  - "[[C++ Preprocessor Directives]]"
+  - "[[C++ Namespaces]]"
+ai_edit: true
+---
 
-- Early 1970s
-    
-    - C Programming Language
-        
-    - Dennis Ritchie
-        
-- 1979
-    
-    - Bjarne Stroustrup
-        
-    - C with Classes
-        
-- 1983
-    
-    - Name changed to C++
-        
-- 1989
-    
-    - First commercial release
-        
-- 1998
-    
-    - C++98 Standard
-        
-- 2003
-    
-    - C++03 Standard
-        
-- **2011**
-    
-    - **C++11 Standard**
-        
-- **2014**
-    
-    - **C++14 Standard**
-        
-- **2017**
-    
-    - **C++17 Standard**
+# C++ Introduction
 
-# Modern C++ and the C++ Standard
+## Purpose
 
-- Classical C++
-    
-    - Pre C++11 Standard
-        
-- Modern C++
-    
-    - C++11
-        
-        - Lots of new features
-            
-    - C++14
-        
-        - Smaller changes
-            
-    - C++17
-        
-        - Simplification
-            
-    - Best practices
-        
-    - Core Guidelines
+This map organises the introductory course material: the meaning of modern C++, the path from source code to an executable, development environments, and the first elements of program structure.
 
-# How does it all work?
+## Prerequisites
 
-- You must tell the computer EXACTLY what to do
-  - Program - like a recipe
+No prerequisites are recorded for this introductory material.
 
-- Programming language
-  - source code
-  - high-level
-  - for humans
+## Concept map
 
-- Editor - used to enter program text
-  - .cpp and .h files
+- Language context: [[Modern C++ and the C++ Standard]]
+- Tools and translation: [[C++ Development Environments]] and [[C++ Build Process]]
+- Source structure: [[C++ Program Structure]], [[C++ Preprocessor Directives]], and [[C++ Namespaces]]
 
-- Binary or other low-level representation
-  - object code
-  - for computers
+## Suggested learning path
 
-- Compiler - translates from high-level to low-level
+1. [[Modern C++ and the C++ Standard]]
+2. [[C++ Development Environments]]
+3. [[C++ Build Process]]
+4. [[C++ Program Structure]]
+5. [[C++ Preprocessor Directives]]
+6. [[C++ Namespaces]]
 
-- Linker - links together our code with other libraries
-  - Creates executable program
+## Projects and exercises
 
-- Testing and Debugging - finding and fixing program errors
-![[Pasted image 20260816233346.png]]
+The course introduces section challenges with a description, a starting project, and a completed solution.
 
-# Integrated Development Environments (IDEs)
-- Editor
-- Compiler
-- Linker
-- Debugger
-- Keep everything in sync
-- CodeLite
-- Code::Blocks
-- NetBeans
-- Eclipse
-- CLion
-- Dev-C++
-- KDevelop
-- Visual Studio
-- Xcode
+Current introductory project context:
 
-# Using the command-line interface
-- A text editor (not a Word Processor)
-- A command-prompt or terminal window
-- An installed C++ compiler
-- No need for an IDE
-- Simple, efficient workflow
-- Better as you gain experience
-- Can be used if you are overwhelmed by IDEs
-- Useful if hardware resources are limited
+- [Workspace1 Project1](workspaces/Workspace1/Project1/main.cpp)
+- [Workspace1 Project2](workspaces/Workspace1/Project2/main.cpp)
+- [workspace2 Project1](workspaces/workspace2/Project1/main.cpp)
+- [workspace2 project2](workspaces/workspace2/project2/main.cpp)
 
-# Curriculum Overview
-- Getting Started
-- Structure of a C++ Program
-- Variables and Constants
-- Arrays and Vectors
-- Strings in C++
-- Expressions, Statements and Operators
-- Statements and Operators
-- Determining Control Flow
+These files were inspected as context only. They are not recorded as mastery evidence, and their tests were not run during this notes update.
+
+## Open gaps
+
+The committed curriculum lists these topics, but the inspected material does not yet contain enough explanation to create concept notes for them:
+
+- Variables and constants
+- Arrays and vectors
+- Strings
+- Expressions, statements, and operators
+- Control flow
 - Functions
-- Pointers and References
-- OOP – Classes and Objects
-- Operator Overloading
-- Inheritance
-- Polymorphism
-- Smart Pointers
-- The Standard Template Library (STL)
-- I/O Streams
-- Exception Handling
+- Pointers and references
+- Classes and objects
+- Operator overloading
+- Inheritance and polymorphism
+- Smart pointers
+- The Standard Template Library
+- I/O streams
+- Exception handling
 
-# Curriculum Overview
-## Challenge Exercises
-- At the end of most course sections
-- Develop real C++ programs using what we discussed in the section
-- Section challenges
-  - Description
-  - Starting project
-  - Completed solution
-- Have fun and keep coding!
-# Section Overview
-## The Structure of a C++ Program
-- Basic Components
-- Preprocessor Directives
-- The main function
-- Namespaces
-- Comments
-- Basic I/O
-
-## Preprocessor Directives
-- What is a preprocessor?
-- What does it do?
-- Directives start with ‘#’
-- Commands to the preprocessor
-```cpp
-#include <iostream>
-#include “myfile.h”
-
-#if
-#elif
-#else
-#endif
-
-#ifdef
-#ifndef
-#define
-#undef
-
-#line
-#error
-#pragma
-```
-
-## Namespaces
-- Why `std::cout` and not just `cout`?
-- What is a naming conflict?
-- Names given to parts of code to help reduce naming conflicts
-- `std` is the name for the C++ ‘standard’ namespace
-- Third-party frameworks will have their own namespaces
-- Scope resolution operator `::`
-- How can we use these namespaces?
+Basic I/O and comments are named in the section overview but are not yet developed as separate concepts.

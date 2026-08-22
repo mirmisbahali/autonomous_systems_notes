@@ -5,17 +5,34 @@
 
 ## Concepts by domain
 
-- No managed concept notes yet.
+### cpp
+
+- [[01_cpp/C++ Build Process|C++ Build Process]] — mastery 0, confidence not rated
+- [[01_cpp/C++ Development Environments|C++ Development Environments]] — mastery 0, confidence not rated
+- [[01_cpp/C++ Namespaces|C++ Namespaces]] — mastery 0, confidence not rated
+- [[01_cpp/C++ Preprocessor Directives|C++ Preprocessor Directives]] — mastery 0, confidence not rated
+- [[01_cpp/C++ Program Structure|C++ Program Structure]] — mastery 0, confidence not rated
+- [[01_cpp/Modern C++ and the C++ Standard|Modern C++ and the C++ Standard]] — mastery 0, confidence not rated
 
 ## Recall priorities
 
 ### Never reviewed
 
-- None.
+- [[01_cpp/C++ Build Process|C++ Build Process]]
+- [[01_cpp/C++ Development Environments|C++ Development Environments]]
+- [[01_cpp/C++ Namespaces|C++ Namespaces]]
+- [[01_cpp/C++ Preprocessor Directives|C++ Preprocessor Directives]]
+- [[01_cpp/C++ Program Structure|C++ Program Structure]]
+- [[01_cpp/Modern C++ and the C++ Standard|Modern C++ and the C++ Standard]]
 
 ### Low or unrated confidence
 
-- None.
+- [[01_cpp/C++ Build Process|C++ Build Process]] — confidence not rated
+- [[01_cpp/C++ Development Environments|C++ Development Environments]] — confidence not rated
+- [[01_cpp/C++ Namespaces|C++ Namespaces]] — confidence not rated
+- [[01_cpp/C++ Preprocessor Directives|C++ Preprocessor Directives]] — confidence not rated
+- [[01_cpp/C++ Program Structure|C++ Program Structure]] — confidence not rated
+- [[01_cpp/Modern C++ and the C++ Standard|Modern C++ and the C++ Standard]] — confidence not rated
 
 ## Weak connections
 
@@ -33,4 +50,4 @@
 
 See [[00_dashboard/Learning Log|Learning Log]].
 
-_Generated 2026-08-17 01:22 AEST._
+_Generated 2026-08-17 01:48 AEST._

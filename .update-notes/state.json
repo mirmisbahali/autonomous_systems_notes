@@ -1,6 +1,28 @@
 {
-  "checkpoint": "8677b60bbb55e80ec103b747fa9f5bd15bbe7e76",
-  "last_run": null,
-  "processed": {},
+  "checkpoint": "fb82cd88bdb94ac3cb5220499fdb51bb631ac2e0",
+  "last_run": "2026-08-16T15:48:32+00:00",
+  "processed": {
+    ".gitignore": "795d39239eb3a91edcfcb684b75e10405f68c4efb7b63cb09f6674df575c2389",
+    "00_dashboard/Knowledge Dashboard.md": "76995eda35230b6e4956c37070a5f5dae9c7f57e104567a5362b500afc404896",
+    "00_dashboard/Learning Log.md": "16963672bb096413f16ee6152097ca6a0a6f29badef9f23a24d4a044a67808b5",
+    "01_cpp/01_01_Introduction.md": "10e0a0ab2fbd7a56ca43b3386fd7b0a0336efc33274ce6ef63602fb672fa3ac4",
+    "01_cpp/C++ Build Process.md": "92cd95439b88e55c5cf287cf0af57d011d54b78317af4374a466c0288b570aea",
+    "01_cpp/C++ Development Environments.md": "a57cc7d1494d873f6c935b77aaae20950f769a6999572ff91a47ac858ea83324",
+    "01_cpp/C++ Namespaces.md": "a12273e2c84500ec6dda31c8bc5c697e23006d14798fd6c456ae56fd288c77d3",
+    "01_cpp/C++ Preprocessor Directives.md": "35cc5f7e65a7ee24ad0e2f49e8ef84abd1f13ffb93274b28854791f1bbd3648e",
+    "01_cpp/C++ Program Structure.md": "d3ed16031a1b06deefd808364d90bc9fc2225d8645ac695af9cc881cd519efa6",
+    "01_cpp/Modern C++ and the C++ Standard.md": "863033914c8a168e479e9634e1118fcd16a2d6ff0b4b39f46fff01c359ec8c13",
+    "01_cpp/workspaces/Workspace1/Project1/Project1.project": "ee7cc18e3ed8c8e00e580bdfaa9ca14f075a94cf106b8f673c8447c97074c458",
+    "01_cpp/workspaces/Workspace1/Project1/main.cpp": "0a95cd9b9599e390bab658e4ace9bbd9ce0a15572137fdcde30d3bafaf67c16f",
+    "01_cpp/workspaces/Workspace1/Project2/Project2.project": "7f37838bac935393179404e9fa21476009b6e17700b917188bb48593e058962e",
+    "01_cpp/workspaces/Workspace1/Project2/main.cpp": "32dc334a223a3b1cf0bb667028b0d433d6fcb2b757619772ef324499acb182ab",
+    "01_cpp/workspaces/Workspace1/Workspace1.workspace": "3628111242b5da0630478f1ad3d95ffff16cfa69c45a5c07b6d7cca006d607ef",
+    "01_cpp/workspaces/workspace2/Project1/Project1.project": "ba3dcf04db3f3308427d4cf47a538f334cdd63d953607c278c57f63760eabf55",
+    "01_cpp/workspaces/workspace2/Project1/main.cpp": "b4f5295d0dddeba5e10bf4ff23d2cf3798ba6e209b81314cdce99d2a97f317c6",
+    "01_cpp/workspaces/workspace2/project2/main.cpp": "b4f5295d0dddeba5e10bf4ff23d2cf3798ba6e209b81314cdce99d2a97f317c6",
+    "01_cpp/workspaces/workspace2/project2/project2.project": "6c8dc306941080f2f7f7ed94f4c376a569d3abffa06f307e08297867348b3d55",
+    "01_cpp/workspaces/workspace2/workspace2.workspace": "c62f288dd419c7dbc65048dbe4861842655ee9cf2bebde2d9e2c0da7d346f023",
+    "Pasted image 20260816233346.png": "8deb831303fce31b38091b40fb10d99b032878898eb85a2c39accc17175a8177"
+  },
   "version": 1
 }
