@@ -5,17 +5,20 @@ tags:
   - note/concept
   - topic/bash
 aliases: []
-confidence: null
+confidence:
 mastery: 0
 knowledge_status: studied-theoretically
 evidence: []
-last_reviewed: null
+last_reviewed:
 prerequisites: []
-related: ["[[Bash Script Input and Arguments]]", "[[Bash Arrays]]"]
+related:
+  - "[[Bash Script Input and Arguments]]"
+  - "[[Bash Arrays]]"
 contrasts: []
 examples: []
 implemented_in: []
-used_by: ["[[Bash Scripting]]"]
+used_by:
+  - "[[Bash Scripting]]"
 ai_edit: true
 ---
 
